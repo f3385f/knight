@@ -20,3 +20,5 @@ commit 04
 rebase 01
 ---------------
 rebase 02
+--------------
+rebase testing changed
